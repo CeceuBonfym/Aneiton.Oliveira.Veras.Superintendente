@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
             <a href="estatuto.html" class="button">Estatuto SFA-DF | Abrapango</a>
             <a href="#" class="button">Certificados de Análise - COAs</a>
             <a href="https://wa.me/5561981234567" class="button">WhatsApp</a>
-            <a href="tel:+5561981234567" class="button">Ligação</a>
+            <a href="tel:+5561981664444" class="button">Ligação</a>
             <a href="https://instagram.com/sfa_df" class="button">Instagram</a>
             <a href="quem-somos-sfa.html" class="button">Quem é Quem SFA-DF</a>
             <a href="https://maps.google.com/?q=Setor+Sudoeste,+INMET,+Campus+Via+S1,+Rua+G,+Brasília+-+DF" class="button">Localização SFA-DF</a>
